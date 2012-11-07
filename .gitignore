@@ -1,5 +1,8 @@
 dist
 cabal-dev
+.static-cache
+static/tmp
+*.sqlite3
 *.o
 *.hi
 *.chi
