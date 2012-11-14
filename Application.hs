@@ -59,3 +59,4 @@ getApplicationDev =
     loader = loadConfig (configSettings Development)
         { csParseExtra = parseExtra
         }
+
